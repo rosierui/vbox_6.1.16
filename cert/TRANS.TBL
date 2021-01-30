@@ -1,0 +1,3 @@
+F VBOXCERTUTIL.EXE;1	VBoxCertUtil.exe
+F VBOXSHA1.CER;1	vbox-sha1.cer
+F VBOXSHA256.CER;1	vbox-sha256.cer
